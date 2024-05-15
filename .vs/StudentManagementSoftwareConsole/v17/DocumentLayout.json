@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\macanovic.SOFTWARE\\RiderProjects\\StudentManagementSoftwareConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8513FFF4-12AA-49F5-A919-27EBC0DCB08C}|DataManager\\DataManager.csproj|c:\\users\\macanovic.software\\riderprojects\\studentmanagementsoftwareconsole\\datamanager\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8513FFF4-12AA-49F5-A919-27EBC0DCB08C}|DataManager\\DataManager.csproj|solutionrelative:datamanager\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E6A04D-FE9D-419B-9AE8-F3B177CAC2A9}|Models\\Models.csproj|c:\\users\\macanovic.software\\riderprojects\\studentmanagementsoftwareconsole\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E6A04D-FE9D-419B-9AE8-F3B177CAC2A9}|Models\\Models.csproj|solutionrelative:models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\macanovic.SOFTWARE\\RiderProjects\\StudentManagementSoftwareConsole\\DataManager\\DataManager.cs",
+              "RelativeDocumentMoniker": "DataManager\\DataManager.cs",
+              "ToolTip": "C:\\Users\\macanovic.SOFTWARE\\RiderProjects\\StudentManagementSoftwareConsole\\DataManager\\DataManager.cs",
+              "RelativeToolTip": "DataManager\\DataManager.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:06:28.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\macanovic.SOFTWARE\\RiderProjects\\StudentManagementSoftwareConsole\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "Models\\Test.cs",
+              "ToolTip": "C:\\Users\\macanovic.SOFTWARE\\RiderProjects\\StudentManagementSoftwareConsole\\Models\\Test.cs*",
+              "RelativeToolTip": "Models\\Test.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:05:10.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

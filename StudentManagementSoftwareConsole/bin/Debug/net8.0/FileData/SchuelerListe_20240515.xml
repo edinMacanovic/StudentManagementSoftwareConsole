@@ -1,2 +1,1378 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfSchuelerXmlMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+<ArrayOfSchuelerXmlMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>M�ller</Nachname>
+    <Vorname>Andreas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Schmidt</Nachname>
+    <Vorname>Kevin</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Schneider</Nachname>
+    <Vorname>Manuel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Fischer</Nachname>
+    <Vorname>Andreas Simon</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Weber</Nachname>
+    <Vorname>Sandro</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Sch�fer</Nachname>
+    <Vorname>Lukas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Meyer</Nachname>
+    <Vorname>Florian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Wagner</Nachname>
+    <Vorname>Manuel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Becker</Nachname>
+    <Vorname>Stephan</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Bauer</Nachname>
+    <Vorname>Michael</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Hoffmann</Nachname>
+    <Vorname>Felix</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Schulz</Nachname>
+    <Vorname>David</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Koch</Nachname>
+    <Vorname>Markus</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Richter</Nachname>
+    <Vorname>Lukas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Klein</Nachname>
+    <Vorname>Robert</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Wolf</Nachname>
+    <Vorname>Lukas Johannes</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Schr�der</Nachname>
+    <Vorname>Wolfgang</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Neumann</Nachname>
+    <Vorname>Alexander</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Braun</Nachname>
+    <Vorname>Kevin</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Werner</Nachname>
+    <Vorname>Patrick</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Schwarz</Nachname>
+    <Vorname>Amar</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Hofmann</Nachname>
+    <Vorname>Johannes</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Zimmermann</Nachname>
+    <Vorname>Mario</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Schmitt</Nachname>
+    <Vorname>Sarah</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Hartmann</Nachname>
+    <Vorname>Michelle</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Schmid</Nachname>
+    <Vorname>Sonja Anna</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Wei�</Nachname>
+    <Vorname>Lea</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a INFT-INF</Klasse>
+    <Nachname>Schmitz</Nachname>
+    <Vorname>Regina</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Kr�ger</Nachname>
+    <Vorname>Rene</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Lange</Nachname>
+    <Vorname>Martin</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Meier</Nachname>
+    <Vorname>Benjamin</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Walter</Nachname>
+    <Vorname>Yasin</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>K�hler</Nachname>
+    <Vorname>Stefan</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Maier</Nachname>
+    <Vorname>Celine</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Beck</Nachname>
+    <Vorname>Daniel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>K�nig</Nachname>
+    <Vorname>Manuel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Krause</Nachname>
+    <Vorname>Florian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Schulze</Nachname>
+    <Vorname>Thomas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Huber</Nachname>
+    <Vorname>David</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Mayer</Nachname>
+    <Vorname>Tizian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Frank</Nachname>
+    <Vorname>Daniel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Lehmann</Nachname>
+    <Vorname>Benedikt</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Kaiser</Nachname>
+    <Vorname>Markus</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Fuchs</Nachname>
+    <Vorname>Stefan</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Herrmann</Nachname>
+    <Vorname>Boris</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Lang</Nachname>
+    <Vorname>Bernhard</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Thomas</Nachname>
+    <Vorname>Stefan</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Peters</Nachname>
+    <Vorname>Marsel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Stein</Nachname>
+    <Vorname>Aydin</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>Jung</Nachname>
+    <Vorname>Andreas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a INFT-INF</Klasse>
+    <Nachname>M�ller</Nachname>
+    <Vorname>Fabio</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4c INFT-INF</Klasse>
+    <Nachname>Berger</Nachname>
+    <Vorname>Thomas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4c INFT-INF</Klasse>
+    <Nachname>Martin</Nachname>
+    <Vorname>Stefan</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4c INFT-INF</Klasse>
+    <Nachname>Friedrich</Nachname>
+    <Vorname>Fabio</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4c INFT-INF</Klasse>
+    <Nachname>Scholz</Nachname>
+    <Vorname>Karl</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4c INFT-INF</Klasse>
+    <Nachname>Keller</Nachname>
+    <Vorname>Christoph</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4c INFT-INF</Klasse>
+    <Nachname>Gro�</Nachname>
+    <Vorname>Raoul</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4c INFT-INF</Klasse>
+    <Nachname>Hahn</Nachname>
+    <Vorname>Alexander</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4c INFT-INF</Klasse>
+    <Nachname>Roth</Nachname>
+    <Vorname>Patrik</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4c INFT-INF</Klasse>
+    <Nachname>G�nther</Nachname>
+    <Vorname>Andreas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4c INFT-INF</Klasse>
+    <Nachname>Vogel</Nachname>
+    <Vorname>Eduard</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4c INFT-INF</Klasse>
+    <Nachname>Schubert</Nachname>
+    <Vorname>Patrick</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4c INFT-INF</Klasse>
+    <Nachname>Winkler</Nachname>
+    <Vorname>Michael</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4c INFT-INF</Klasse>
+    <Nachname>Schuster</Nachname>
+    <Vorname>Ludwig</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4c INFT-INF</Klasse>
+    <Nachname>Lorenz</Nachname>
+    <Vorname>Matthias</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4c INFT-INF</Klasse>
+    <Nachname>Ludwig</Nachname>
+    <Vorname>Thomas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4c INFT-INF</Klasse>
+    <Nachname>Baumann -</Nachname>
+    <Vorname>Patrick Christian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4c INFT-INF</Klasse>
+    <Nachname>Heinrich</Nachname>
+    <Vorname>Raphael</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4c INFT-INF</Klasse>
+    <Nachname>Otto</Nachname>
+    <Vorname>Thomas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Simon</Nachname>
+    <Vorname>Luca</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Graf</Nachname>
+    <Vorname>Fabian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Kraus</Nachname>
+    <Vorname>Harun</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Kr�mer</Nachname>
+    <Vorname>Kevin</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>B�hm</Nachname>
+    <Vorname>Timotheus</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Schulte</Nachname>
+    <Vorname>Dominik</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Albrecht</Nachname>
+    <Vorname>Elias</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Franke</Nachname>
+    <Vorname>Azad</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Winter</Nachname>
+    <Vorname>Georg</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Schumacher</Nachname>
+    <Vorname>Alexander</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Vogt</Nachname>
+    <Vorname>Abdul Wahed</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Haas</Nachname>
+    <Vorname>Noah</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Sommer</Nachname>
+    <Vorname>Simon</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Schreiber</Nachname>
+    <Vorname>G�nther</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Engel</Nachname>
+    <Vorname>Benjamin David</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Ziegler</Nachname>
+    <Vorname>Lukas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Dietrich</Nachname>
+    <Vorname>Matteo</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Brandt</Nachname>
+    <Vorname>Dominic</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Seidel</Nachname>
+    <Vorname>Marco</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Kuhn</Nachname>
+    <Vorname>Karl</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Busch</Nachname>
+    <Vorname>Dominik</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Horn</Nachname>
+    <Vorname>Muhammed Ali</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Arnold</Nachname>
+    <Vorname>Muhammed</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>K�hn</Nachname>
+    <Vorname>Thomas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1a GME</Klasse>
+    <Nachname>Bergmann</Nachname>
+    <Vorname>Markus</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Pohl</Nachname>
+    <Vorname>Qader</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Pfeiffer</Nachname>
+    <Vorname>Alican</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Wolff</Nachname>
+    <Vorname>Florian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Voigt</Nachname>
+    <Vorname>Eren</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>M�ller</Nachname>
+    <Vorname>Andreas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Schmidt</Nachname>
+    <Vorname>Maximilian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Schneider</Nachname>
+    <Vorname>Tobias</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Fischer</Nachname>
+    <Vorname>Lea</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Weber</Nachname>
+    <Vorname>Michael</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Sch�fer</Nachname>
+    <Vorname>Lukas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Meyer</Nachname>
+    <Vorname>Lukas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Wagner</Nachname>
+    <Vorname>Frederik</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Becker</Nachname>
+    <Vorname>Benjamin</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Bauer</Nachname>
+    <Vorname>Klemens</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Hoffmann</Nachname>
+    <Vorname>Tobias</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Schulz</Nachname>
+    <Vorname>Fabian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Koch</Nachname>
+    <Vorname>Edis</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Richter</Nachname>
+    <Vorname>Stefan</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Klein</Nachname>
+    <Vorname>Mario</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Wolf</Nachname>
+    <Vorname>Benjamin</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Schr�der</Nachname>
+    <Vorname>Alfons</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Neumann</Nachname>
+    <Vorname>Fabian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Braun</Nachname>
+    <Vorname>Manuel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Werner</Nachname>
+    <Vorname>Pascal</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Schwarz</Nachname>
+    <Vorname>Simon</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Hofmann</Nachname>
+    <Vorname>Patrick</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>1b GME</Klasse>
+    <Nachname>Zimmermann</Nachname>
+    <Vorname>Mert</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2 GM ELT</Klasse>
+    <Nachname>Schmitt</Nachname>
+    <Vorname>Benjamin</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2 GM ELT</Klasse>
+    <Nachname>Hartmann</Nachname>
+    <Vorname>Thomas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2 GM ELT</Klasse>
+    <Nachname>Schmid</Nachname>
+    <Vorname>Mathias</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2 GM ELT</Klasse>
+    <Nachname>Wei�</Nachname>
+    <Vorname>Mario</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2 GM ELT</Klasse>
+    <Nachname>Schmitz</Nachname>
+    <Vorname>Wolfgang</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2 GM ELT</Klasse>
+    <Nachname>Kr�ger</Nachname>
+    <Vorname>Michael</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2 GM ELT</Klasse>
+    <Nachname>Lange</Nachname>
+    <Vorname>Immanuel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2 GM ELT</Klasse>
+    <Nachname>Meier</Nachname>
+    <Vorname>Josef</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2 GM ELT</Klasse>
+    <Nachname>Walter</Nachname>
+    <Vorname>Manuel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2 GM ELT</Klasse>
+    <Nachname>K�hler</Nachname>
+    <Vorname>Reinhard</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2 GM ELT</Klasse>
+    <Nachname>Maier</Nachname>
+    <Vorname>Daniel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2 GM ELT</Klasse>
+    <Nachname>Beck</Nachname>
+    <Vorname>Alen</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2 GM ELT</Klasse>
+    <Nachname>K�nig</Nachname>
+    <Vorname>Christian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2 GM ELT</Klasse>
+    <Nachname>Krause</Nachname>
+    <Vorname>Stefan</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2 GM ELT</Klasse>
+    <Nachname>Schulze</Nachname>
+    <Vorname>Daniel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2 GM ELT</Klasse>
+    <Nachname>Huber</Nachname>
+    <Vorname>Markus</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Mayer</Nachname>
+    <Vorname>Andreas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Frank</Nachname>
+    <Vorname>Bekir</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Lehmann</Nachname>
+    <Vorname>Florian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Kaiser</Nachname>
+    <Vorname>Lukas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Fuchs</Nachname>
+    <Vorname>Fabian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Herrmann</Nachname>
+    <Vorname>Dominic</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Lang</Nachname>
+    <Vorname>Benjamin</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Thomas</Nachname>
+    <Vorname>Simon</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Peters</Nachname>
+    <Vorname>Antonio</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Stein</Nachname>
+    <Vorname>Muhammed</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Jung</Nachname>
+    <Vorname>Leon</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>M�ller</Nachname>
+    <Vorname>Rene</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Berger</Nachname>
+    <Vorname>Simon</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Martin</Nachname>
+    <Vorname>Michael Josef</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Friedrich</Nachname>
+    <Vorname>Florian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Scholz</Nachname>
+    <Vorname>Benjamin</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Keller</Nachname>
+    <Vorname>Sebastian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Gro�</Nachname>
+    <Vorname>Thomas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Hahn</Nachname>
+    <Vorname>Simon</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Roth</Nachname>
+    <Vorname>Patrick</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>G�nther</Nachname>
+    <Vorname>Elyesa</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Vogel</Nachname>
+    <Vorname>Marcel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Schubert</Nachname>
+    <Vorname>Alexander</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Winkler</Nachname>
+    <Vorname>Simon</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Schuster</Nachname>
+    <Vorname>Roland</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Lorenz</Nachname>
+    <Vorname>Julian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Ludwig</Nachname>
+    <Vorname>Sevda</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Baumann -</Nachname>
+    <Vorname>Christoph</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2a GME</Klasse>
+    <Nachname>Heinrich</Nachname>
+    <Vorname>Bernhard</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Otto</Nachname>
+    <Vorname>Burak</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Simon</Nachname>
+    <Vorname>Roland</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Graf</Nachname>
+    <Vorname>Leon</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Kraus</Nachname>
+    <Vorname>Stefan</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Kr�mer</Nachname>
+    <Vorname>Julia</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>B�hm</Nachname>
+    <Vorname>Noah</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Schulte</Nachname>
+    <Vorname>Nicolai</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Albrecht</Nachname>
+    <Vorname>Fabian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Franke</Nachname>
+    <Vorname>Elias</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Winter</Nachname>
+    <Vorname>Marcel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Schumacher</Nachname>
+    <Vorname>Christian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Vogt</Nachname>
+    <Vorname>Fabian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Haas</Nachname>
+    <Vorname>Christian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Sommer</Nachname>
+    <Vorname>Lambert</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Schreiber</Nachname>
+    <Vorname>Christoph</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Engel</Nachname>
+    <Vorname>Daniel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Ziegler</Nachname>
+    <Vorname>Stefan</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Dietrich</Nachname>
+    <Vorname>Stephan</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Brandt</Nachname>
+    <Vorname>Raphael</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Seidel</Nachname>
+    <Vorname>Manuela</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Kuhn</Nachname>
+    <Vorname>Dominik</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Busch</Nachname>
+    <Vorname>Bettina</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Horn</Nachname>
+    <Vorname>Dominick</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Arnold</Nachname>
+    <Vorname>Lukas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>K�hn</Nachname>
+    <Vorname>Mario</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Bergmann</Nachname>
+    <Vorname>Fabian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Pohl</Nachname>
+    <Vorname>Dominik</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Pfeiffer</Nachname>
+    <Vorname>Daniel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>2b GME</Klasse>
+    <Nachname>Wolff</Nachname>
+    <Vorname>Benjamin</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Voigt</Nachname>
+    <Vorname>Roman</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>M�ller</Nachname>
+    <Vorname>Fabio</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Schmidt</Nachname>
+    <Vorname>Philipp</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Schneider</Nachname>
+    <Vorname>Philipp</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Fischer</Nachname>
+    <Vorname>Florian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Weber</Nachname>
+    <Vorname>Johann</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Sch�fer</Nachname>
+    <Vorname>Luca</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Meyer</Nachname>
+    <Vorname>Davor</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Wagner</Nachname>
+    <Vorname>Markus</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Becker</Nachname>
+    <Vorname>Florian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Bauer</Nachname>
+    <Vorname>Nazif</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Hoffmann</Nachname>
+    <Vorname>Fabio</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Schulz</Nachname>
+    <Vorname>Fabian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Koch</Nachname>
+    <Vorname>Matteo</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Richter</Nachname>
+    <Vorname>Alexander</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Klein</Nachname>
+    <Vorname>Kushtrim</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Wolf</Nachname>
+    <Vorname>Tobias</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Schr�der</Nachname>
+    <Vorname>Adelisa</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Neumann</Nachname>
+    <Vorname>Andreas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Braun</Nachname>
+    <Vorname>Manuel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Werner</Nachname>
+    <Vorname>Michael</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Schwarz</Nachname>
+    <Vorname>Matthias</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM ABT</Klasse>
+    <Nachname>Hofmann</Nachname>
+    <Vorname>Elvir</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Zimmermann</Nachname>
+    <Vorname>Marcel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Schmitt</Nachname>
+    <Vorname>Jamshid</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Hartmann</Nachname>
+    <Vorname>Lukas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Schmid</Nachname>
+    <Vorname>Thomas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Wei�</Nachname>
+    <Vorname>Anton</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Schmitz</Nachname>
+    <Vorname>Dominik</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Kr�ger</Nachname>
+    <Vorname>Moritz</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Lange</Nachname>
+    <Vorname>Andre</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Meier</Nachname>
+    <Vorname>Eldin</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Walter</Nachname>
+    <Vorname>Florian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>K�hler</Nachname>
+    <Vorname>Wolfgang</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Maier</Nachname>
+    <Vorname>Tobias</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Beck</Nachname>
+    <Vorname>Marcel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>K�nig</Nachname>
+    <Vorname>Michael</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Krause</Nachname>
+    <Vorname>Patrick</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Schulze</Nachname>
+    <Vorname>Meysam</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Huber</Nachname>
+    <Vorname>Stefan</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Mayer</Nachname>
+    <Vorname>Marco</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Frank</Nachname>
+    <Vorname>Florian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Lehmann</Nachname>
+    <Vorname>Patrick</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Kaiser</Nachname>
+    <Vorname>Elvis</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Fuchs</Nachname>
+    <Vorname>Elmar</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Herrmann</Nachname>
+    <Vorname>Andreas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Lang</Nachname>
+    <Vorname>Lorenz</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Thomas</Nachname>
+    <Vorname>Fabian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Peters</Nachname>
+    <Vorname>Fabian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Stein</Nachname>
+    <Vorname>Sebastian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Jung</Nachname>
+    <Vorname>Lukas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>M�ller</Nachname>
+    <Vorname>Alexander</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Berger</Nachname>
+    <Vorname>Christopher</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Martin</Nachname>
+    <Vorname>Dietmar</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>3a HM EGT</Klasse>
+    <Nachname>Friedrich</Nachname>
+    <Vorname>Kevin</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Scholz</Nachname>
+    <Vorname>Hasibullah</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Keller</Nachname>
+    <Vorname>Lukas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Gro�</Nachname>
+    <Vorname>Daniel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Hahn</Nachname>
+    <Vorname>Maximilian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Roth</Nachname>
+    <Vorname>Raphael</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>G�nther</Nachname>
+    <Vorname>Florian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Vogel</Nachname>
+    <Vorname>Stefan</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Schubert</Nachname>
+    <Vorname>Christopher</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Winkler</Nachname>
+    <Vorname>Patrik</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Schuster</Nachname>
+    <Vorname>Andreas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Lorenz</Nachname>
+    <Vorname>Fabian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Ludwig</Nachname>
+    <Vorname>Chrysanth</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Baumann -</Nachname>
+    <Vorname>Simon</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Heinrich</Nachname>
+    <Vorname>Moritz</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Otto</Nachname>
+    <Vorname>Cornelia</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Simon</Nachname>
+    <Vorname>Martin</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Graf</Nachname>
+    <Vorname>Florian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Kraus</Nachname>
+    <Vorname>Lukas</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Kr�mer</Nachname>
+    <Vorname>Firat</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>B�hm</Nachname>
+    <Vorname>Florian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Schulte</Nachname>
+    <Vorname>Daniel</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Albrecht</Nachname>
+    <Vorname>David</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Franke</Nachname>
+    <Vorname>Philip</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Winter</Nachname>
+    <Vorname>Maximilian</Vorname>
+  </SchuelerXmlMap>
+  <SchuelerXmlMap>
+    <Klasse>4a EGT/GLT</Klasse>
+    <Nachname>Schumacher</Nachname>
+    <Vorname>Johannes</Vorname>
+  </SchuelerXmlMap>
+</ArrayOfSchuelerXmlMap>

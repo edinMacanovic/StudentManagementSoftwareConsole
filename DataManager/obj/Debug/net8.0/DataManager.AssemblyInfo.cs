@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01a9b3d7ce8be1b032e44d5ecf50c1ac996db985")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

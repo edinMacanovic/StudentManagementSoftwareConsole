@@ -1,5 +1,7 @@
 ﻿using System.Globalization;
+using System.Reflection;
 using System.Text.Json;
+using System.Xml;
 using System.Xml.Serialization;
 using CsvHelper;
 using CsvHelper.Configuration;
@@ -31,15 +33,35 @@ public static class DataManager<T> where T : new()
 
     public static Task<List<T>> ImportXmlAsync(string filePath)
     {
-        var serializer = new XmlSerializer(typeof(List<T>));
-        using (FileStream fileStream = new FileStream(filePath, FileMode.Open))
+        return Task.Run(() =>
         {
-            var result = (List<T>) serializer.Deserialize(fileStream)!;
-            return Task.FromResult(result);
-        }
+            var itemList = new List<T>();
+            var doc = new XmlDocument();
+            doc.Load(filePath);
+
+            var rows = doc.DocumentElement?.SelectNodes("row");
+            foreach (XmlNode row in rows!)
+            {
+                var item = new T();
+                foreach (XmlNode childNode in row.ChildNodes)
+                {
+                    var property = typeof(T).GetProperty(childNode.Name);
+                    if (property != null && property.CanWrite)
+                    {
+                        // Assign the inner text to the property, attempting to convert to the proper type
+                        property.SetValue(item, Convert.ChangeType(childNode.InnerText, property.PropertyType));
+                    }
+                }
+                itemList.Add(item);
+            }
+
+            return itemList;
+        });
     }
 
-    public static Task ExportXmlAsync(List<T> items, string filePath)
+
+
+    public static Task ExportXmlAsync(List<T>? items, string filePath)
     {
         var serializer = new XmlSerializer(typeof(List<T>));
         using (TextWriter writer = new StreamWriter(filePath))

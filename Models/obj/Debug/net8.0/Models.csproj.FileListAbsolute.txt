@@ -10,3 +10,4 @@ C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\Model
 C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\Models\obj\Debug\net8.0\Models.pdb
 C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\Models\obj\Debug\net8.0\ref\Models.dll
 C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\Models\obj\Debug\net8.0\Models.sourcelink.json

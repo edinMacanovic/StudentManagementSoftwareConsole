@@ -13,3 +13,4 @@ C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\DataM
 C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\DataManager\obj\Debug\net8.0\refint\DataManager.dll
 C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\DataManager\obj\Debug\net8.0\DataManager.pdb
 C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\DataManager\obj\Debug\net8.0\ref\DataManager.dll
+C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\DataManager\obj\Debug\net8.0\DataManager.sourcelink.json

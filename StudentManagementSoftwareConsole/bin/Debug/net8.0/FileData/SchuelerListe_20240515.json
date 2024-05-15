@@ -1,0 +1,1377 @@
+[
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "M\uFFFDller",
+    "Vorname": "Andreas"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Schmidt",
+    "Vorname": "Kevin"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Schneider",
+    "Vorname": "Manuel"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Fischer",
+    "Vorname": "Andreas Simon"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Weber",
+    "Vorname": "Sandro"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Sch\uFFFDfer",
+    "Vorname": "Lukas"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Meyer",
+    "Vorname": "Florian"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Wagner",
+    "Vorname": "Manuel"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Becker",
+    "Vorname": "Stephan"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Bauer",
+    "Vorname": "Michael"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Hoffmann",
+    "Vorname": "Felix"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Schulz",
+    "Vorname": "David"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Koch",
+    "Vorname": "Markus"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Richter",
+    "Vorname": "Lukas"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Klein",
+    "Vorname": "Robert"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Wolf",
+    "Vorname": "Lukas Johannes"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Schr\uFFFDder",
+    "Vorname": "Wolfgang"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Neumann",
+    "Vorname": "Alexander"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Braun",
+    "Vorname": "Kevin"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Werner",
+    "Vorname": "Patrick"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Schwarz",
+    "Vorname": "Amar"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Hofmann",
+    "Vorname": "Johannes"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Zimmermann",
+    "Vorname": "Mario"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Schmitt",
+    "Vorname": "Sarah"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Hartmann",
+    "Vorname": "Michelle"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Schmid",
+    "Vorname": "Sonja Anna"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Wei\uFFFD",
+    "Vorname": "Lea"
+  },
+  {
+    "Klasse": "2a INFT-INF",
+    "Nachname": "Schmitz",
+    "Vorname": "Regina"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Kr\uFFFDger",
+    "Vorname": "Rene"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Lange",
+    "Vorname": "Martin"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Meier",
+    "Vorname": "Benjamin"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Walter",
+    "Vorname": "Yasin"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "K\uFFFDhler",
+    "Vorname": "Stefan"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Maier",
+    "Vorname": "Celine"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Beck",
+    "Vorname": "Daniel"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "K\uFFFDnig",
+    "Vorname": "Manuel"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Krause",
+    "Vorname": "Florian"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Schulze",
+    "Vorname": "Thomas"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Huber",
+    "Vorname": "David"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Mayer",
+    "Vorname": "Tizian"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Frank",
+    "Vorname": "Daniel"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Lehmann",
+    "Vorname": "Benedikt"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Kaiser",
+    "Vorname": "Markus"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Fuchs",
+    "Vorname": "Stefan"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Herrmann",
+    "Vorname": "Boris"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Lang",
+    "Vorname": "Bernhard"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Thomas",
+    "Vorname": "Stefan"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Peters",
+    "Vorname": "Marsel"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Stein",
+    "Vorname": "Aydin"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "Jung",
+    "Vorname": "Andreas"
+  },
+  {
+    "Klasse": "3a INFT-INF",
+    "Nachname": "M\uFFFDller",
+    "Vorname": "Fabio"
+  },
+  {
+    "Klasse": "4c INFT-INF",
+    "Nachname": "Berger",
+    "Vorname": "Thomas"
+  },
+  {
+    "Klasse": "4c INFT-INF",
+    "Nachname": "Martin",
+    "Vorname": "Stefan"
+  },
+  {
+    "Klasse": "4c INFT-INF",
+    "Nachname": "Friedrich",
+    "Vorname": "Fabio"
+  },
+  {
+    "Klasse": "4c INFT-INF",
+    "Nachname": "Scholz",
+    "Vorname": "Karl"
+  },
+  {
+    "Klasse": "4c INFT-INF",
+    "Nachname": "Keller",
+    "Vorname": "Christoph"
+  },
+  {
+    "Klasse": "4c INFT-INF",
+    "Nachname": "Gro\uFFFD",
+    "Vorname": "Raoul"
+  },
+  {
+    "Klasse": "4c INFT-INF",
+    "Nachname": "Hahn",
+    "Vorname": "Alexander"
+  },
+  {
+    "Klasse": "4c INFT-INF",
+    "Nachname": "Roth",
+    "Vorname": "Patrik"
+  },
+  {
+    "Klasse": "4c INFT-INF",
+    "Nachname": "G\uFFFDnther",
+    "Vorname": "Andreas"
+  },
+  {
+    "Klasse": "4c INFT-INF",
+    "Nachname": "Vogel",
+    "Vorname": "Eduard"
+  },
+  {
+    "Klasse": "4c INFT-INF",
+    "Nachname": "Schubert",
+    "Vorname": "Patrick"
+  },
+  {
+    "Klasse": "4c INFT-INF",
+    "Nachname": "Winkler",
+    "Vorname": "Michael"
+  },
+  {
+    "Klasse": "4c INFT-INF",
+    "Nachname": "Schuster",
+    "Vorname": "Ludwig"
+  },
+  {
+    "Klasse": "4c INFT-INF",
+    "Nachname": "Lorenz",
+    "Vorname": "Matthias"
+  },
+  {
+    "Klasse": "4c INFT-INF",
+    "Nachname": "Ludwig",
+    "Vorname": "Thomas"
+  },
+  {
+    "Klasse": "4c INFT-INF",
+    "Nachname": "Baumann -",
+    "Vorname": "Patrick Christian"
+  },
+  {
+    "Klasse": "4c INFT-INF",
+    "Nachname": "Heinrich",
+    "Vorname": "Raphael"
+  },
+  {
+    "Klasse": "4c INFT-INF",
+    "Nachname": "Otto",
+    "Vorname": "Thomas"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Simon",
+    "Vorname": "Luca"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Graf",
+    "Vorname": "Fabian"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Kraus",
+    "Vorname": "Harun"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Kr\uFFFDmer",
+    "Vorname": "Kevin"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "B\uFFFDhm",
+    "Vorname": "Timotheus"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Schulte",
+    "Vorname": "Dominik"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Albrecht",
+    "Vorname": "Elias"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Franke",
+    "Vorname": "Azad"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Winter",
+    "Vorname": "Georg"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Schumacher",
+    "Vorname": "Alexander"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Vogt",
+    "Vorname": "Abdul Wahed"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Haas",
+    "Vorname": "Noah"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Sommer",
+    "Vorname": "Simon"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Schreiber",
+    "Vorname": "G\uFFFDnther"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Engel",
+    "Vorname": "Benjamin David"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Ziegler",
+    "Vorname": "Lukas"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Dietrich",
+    "Vorname": "Matteo"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Brandt",
+    "Vorname": "Dominic"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Seidel",
+    "Vorname": "Marco"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Kuhn",
+    "Vorname": "Karl"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Busch",
+    "Vorname": "Dominik"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Horn",
+    "Vorname": "Muhammed Ali"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Arnold",
+    "Vorname": "Muhammed"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "K\uFFFDhn",
+    "Vorname": "Thomas"
+  },
+  {
+    "Klasse": "1a GME",
+    "Nachname": "Bergmann",
+    "Vorname": "Markus"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Pohl",
+    "Vorname": "Qader"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Pfeiffer",
+    "Vorname": "Alican"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Wolff",
+    "Vorname": "Florian"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Voigt",
+    "Vorname": "Eren"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "M\uFFFDller",
+    "Vorname": "Andreas"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Schmidt",
+    "Vorname": "Maximilian"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Schneider",
+    "Vorname": "Tobias"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Fischer",
+    "Vorname": "Lea"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Weber",
+    "Vorname": "Michael"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Sch\uFFFDfer",
+    "Vorname": "Lukas"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Meyer",
+    "Vorname": "Lukas"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Wagner",
+    "Vorname": "Frederik"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Becker",
+    "Vorname": "Benjamin"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Bauer",
+    "Vorname": "Klemens"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Hoffmann",
+    "Vorname": "Tobias"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Schulz",
+    "Vorname": "Fabian"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Koch",
+    "Vorname": "Edis"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Richter",
+    "Vorname": "Stefan"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Klein",
+    "Vorname": "Mario"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Wolf",
+    "Vorname": "Benjamin"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Schr\uFFFDder",
+    "Vorname": "Alfons"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Neumann",
+    "Vorname": "Fabian"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Braun",
+    "Vorname": "Manuel"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Werner",
+    "Vorname": "Pascal"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Schwarz",
+    "Vorname": "Simon"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Hofmann",
+    "Vorname": "Patrick"
+  },
+  {
+    "Klasse": "1b GME",
+    "Nachname": "Zimmermann",
+    "Vorname": "Mert"
+  },
+  {
+    "Klasse": "2 GM ELT",
+    "Nachname": "Schmitt",
+    "Vorname": "Benjamin"
+  },
+  {
+    "Klasse": "2 GM ELT",
+    "Nachname": "Hartmann",
+    "Vorname": "Thomas"
+  },
+  {
+    "Klasse": "2 GM ELT",
+    "Nachname": "Schmid",
+    "Vorname": "Mathias"
+  },
+  {
+    "Klasse": "2 GM ELT",
+    "Nachname": "Wei\uFFFD",
+    "Vorname": "Mario"
+  },
+  {
+    "Klasse": "2 GM ELT",
+    "Nachname": "Schmitz",
+    "Vorname": "Wolfgang"
+  },
+  {
+    "Klasse": "2 GM ELT",
+    "Nachname": "Kr\uFFFDger",
+    "Vorname": "Michael"
+  },
+  {
+    "Klasse": "2 GM ELT",
+    "Nachname": "Lange",
+    "Vorname": "Immanuel"
+  },
+  {
+    "Klasse": "2 GM ELT",
+    "Nachname": "Meier",
+    "Vorname": "Josef"
+  },
+  {
+    "Klasse": "2 GM ELT",
+    "Nachname": "Walter",
+    "Vorname": "Manuel"
+  },
+  {
+    "Klasse": "2 GM ELT",
+    "Nachname": "K\uFFFDhler",
+    "Vorname": "Reinhard"
+  },
+  {
+    "Klasse": "2 GM ELT",
+    "Nachname": "Maier",
+    "Vorname": "Daniel"
+  },
+  {
+    "Klasse": "2 GM ELT",
+    "Nachname": "Beck",
+    "Vorname": "Alen"
+  },
+  {
+    "Klasse": "2 GM ELT",
+    "Nachname": "K\uFFFDnig",
+    "Vorname": "Christian"
+  },
+  {
+    "Klasse": "2 GM ELT",
+    "Nachname": "Krause",
+    "Vorname": "Stefan"
+  },
+  {
+    "Klasse": "2 GM ELT",
+    "Nachname": "Schulze",
+    "Vorname": "Daniel"
+  },
+  {
+    "Klasse": "2 GM ELT",
+    "Nachname": "Huber",
+    "Vorname": "Markus"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Mayer",
+    "Vorname": "Andreas"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Frank",
+    "Vorname": "Bekir"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Lehmann",
+    "Vorname": "Florian"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Kaiser",
+    "Vorname": "Lukas"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Fuchs",
+    "Vorname": "Fabian"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Herrmann",
+    "Vorname": "Dominic"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Lang",
+    "Vorname": "Benjamin"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Thomas",
+    "Vorname": "Simon"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Peters",
+    "Vorname": "Antonio"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Stein",
+    "Vorname": "Muhammed"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Jung",
+    "Vorname": "Leon"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "M\uFFFDller",
+    "Vorname": "Rene"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Berger",
+    "Vorname": "Simon"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Martin",
+    "Vorname": "Michael Josef"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Friedrich",
+    "Vorname": "Florian"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Scholz",
+    "Vorname": "Benjamin"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Keller",
+    "Vorname": "Sebastian"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Gro\uFFFD",
+    "Vorname": "Thomas"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Hahn",
+    "Vorname": "Simon"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Roth",
+    "Vorname": "Patrick"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "G\uFFFDnther",
+    "Vorname": "Elyesa"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Vogel",
+    "Vorname": "Marcel"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Schubert",
+    "Vorname": "Alexander"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Winkler",
+    "Vorname": "Simon"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Schuster",
+    "Vorname": "Roland"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Lorenz",
+    "Vorname": "Julian"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Ludwig",
+    "Vorname": "Sevda"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Baumann -",
+    "Vorname": "Christoph"
+  },
+  {
+    "Klasse": "2a GME",
+    "Nachname": "Heinrich",
+    "Vorname": "Bernhard"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Otto",
+    "Vorname": "Burak"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Simon",
+    "Vorname": "Roland"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Graf",
+    "Vorname": "Leon"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Kraus",
+    "Vorname": "Stefan"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Kr\uFFFDmer",
+    "Vorname": "Julia"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "B\uFFFDhm",
+    "Vorname": "Noah"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Schulte",
+    "Vorname": "Nicolai"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Albrecht",
+    "Vorname": "Fabian"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Franke",
+    "Vorname": "Elias"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Winter",
+    "Vorname": "Marcel"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Schumacher",
+    "Vorname": "Christian"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Vogt",
+    "Vorname": "Fabian"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Haas",
+    "Vorname": "Christian"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Sommer",
+    "Vorname": "Lambert"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Schreiber",
+    "Vorname": "Christoph"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Engel",
+    "Vorname": "Daniel"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Ziegler",
+    "Vorname": "Stefan"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Dietrich",
+    "Vorname": "Stephan"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Brandt",
+    "Vorname": "Raphael"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Seidel",
+    "Vorname": "Manuela"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Kuhn",
+    "Vorname": "Dominik"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Busch",
+    "Vorname": "Bettina"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Horn",
+    "Vorname": "Dominick"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Arnold",
+    "Vorname": "Lukas"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "K\uFFFDhn",
+    "Vorname": "Mario"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Bergmann",
+    "Vorname": "Fabian"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Pohl",
+    "Vorname": "Dominik"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Pfeiffer",
+    "Vorname": "Daniel"
+  },
+  {
+    "Klasse": "2b GME",
+    "Nachname": "Wolff",
+    "Vorname": "Benjamin"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Voigt",
+    "Vorname": "Roman"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "M\uFFFDller",
+    "Vorname": "Fabio"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Schmidt",
+    "Vorname": "Philipp"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Schneider",
+    "Vorname": "Philipp"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Fischer",
+    "Vorname": "Florian"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Weber",
+    "Vorname": "Johann"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Sch\uFFFDfer",
+    "Vorname": "Luca"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Meyer",
+    "Vorname": "Davor"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Wagner",
+    "Vorname": "Markus"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Becker",
+    "Vorname": "Florian"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Bauer",
+    "Vorname": "Nazif"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Hoffmann",
+    "Vorname": "Fabio"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Schulz",
+    "Vorname": "Fabian"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Koch",
+    "Vorname": "Matteo"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Richter",
+    "Vorname": "Alexander"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Klein",
+    "Vorname": "Kushtrim"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Wolf",
+    "Vorname": "Tobias"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Schr\uFFFDder",
+    "Vorname": "Adelisa"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Neumann",
+    "Vorname": "Andreas"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Braun",
+    "Vorname": "Manuel"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Werner",
+    "Vorname": "Michael"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Schwarz",
+    "Vorname": "Matthias"
+  },
+  {
+    "Klasse": "3a HM ABT",
+    "Nachname": "Hofmann",
+    "Vorname": "Elvir"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Zimmermann",
+    "Vorname": "Marcel"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Schmitt",
+    "Vorname": "Jamshid"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Hartmann",
+    "Vorname": "Lukas"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Schmid",
+    "Vorname": "Thomas"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Wei\uFFFD",
+    "Vorname": "Anton"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Schmitz",
+    "Vorname": "Dominik"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Kr\uFFFDger",
+    "Vorname": "Moritz"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Lange",
+    "Vorname": "Andre"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Meier",
+    "Vorname": "Eldin"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Walter",
+    "Vorname": "Florian"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "K\uFFFDhler",
+    "Vorname": "Wolfgang"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Maier",
+    "Vorname": "Tobias"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Beck",
+    "Vorname": "Marcel"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "K\uFFFDnig",
+    "Vorname": "Michael"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Krause",
+    "Vorname": "Patrick"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Schulze",
+    "Vorname": "Meysam"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Huber",
+    "Vorname": "Stefan"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Mayer",
+    "Vorname": "Marco"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Frank",
+    "Vorname": "Florian"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Lehmann",
+    "Vorname": "Patrick"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Kaiser",
+    "Vorname": "Elvis"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Fuchs",
+    "Vorname": "Elmar"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Herrmann",
+    "Vorname": "Andreas"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Lang",
+    "Vorname": "Lorenz"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Thomas",
+    "Vorname": "Fabian"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Peters",
+    "Vorname": "Fabian"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Stein",
+    "Vorname": "Sebastian"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Jung",
+    "Vorname": "Lukas"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "M\uFFFDller",
+    "Vorname": "Alexander"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Berger",
+    "Vorname": "Christopher"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Martin",
+    "Vorname": "Dietmar"
+  },
+  {
+    "Klasse": "3a HM EGT",
+    "Nachname": "Friedrich",
+    "Vorname": "Kevin"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Scholz",
+    "Vorname": "Hasibullah"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Keller",
+    "Vorname": "Lukas"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Gro\uFFFD",
+    "Vorname": "Daniel"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Hahn",
+    "Vorname": "Maximilian"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Roth",
+    "Vorname": "Raphael"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "G\uFFFDnther",
+    "Vorname": "Florian"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Vogel",
+    "Vorname": "Stefan"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Schubert",
+    "Vorname": "Christopher"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Winkler",
+    "Vorname": "Patrik"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Schuster",
+    "Vorname": "Andreas"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Lorenz",
+    "Vorname": "Fabian"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Ludwig",
+    "Vorname": "Chrysanth"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Baumann -",
+    "Vorname": "Simon"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Heinrich",
+    "Vorname": "Moritz"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Otto",
+    "Vorname": "Cornelia"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Simon",
+    "Vorname": "Martin"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Graf",
+    "Vorname": "Florian"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Kraus",
+    "Vorname": "Lukas"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Kr\uFFFDmer",
+    "Vorname": "Firat"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "B\uFFFDhm",
+    "Vorname": "Florian"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Schulte",
+    "Vorname": "Daniel"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Albrecht",
+    "Vorname": "David"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Franke",
+    "Vorname": "Philip"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Winter",
+    "Vorname": "Maximilian"
+  },
+  {
+    "Klasse": "4a EGT/GLT",
+    "Nachname": "Schumacher",
+    "Vorname": "Johannes"
+  }
+]

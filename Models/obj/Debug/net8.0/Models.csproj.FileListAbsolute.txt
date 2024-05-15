@@ -1,0 +1,12 @@
+C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\Models\bin\Debug\net8.0\Models.deps.json
+C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\Models\bin\Debug\net8.0\Models.dll
+C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\Models\bin\Debug\net8.0\Models.pdb
+C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\Models\obj\Debug\net8.0\Models.dll
+C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\Models\obj\Debug\net8.0\refint\Models.dll
+C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\Models\obj\Debug\net8.0\Models.pdb
+C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\Models\obj\Debug\net8.0\ref\Models.dll
+C:\Users\macanovic.SOFTWARE\RiderProjects\StudentManagementSoftwareConsole\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache

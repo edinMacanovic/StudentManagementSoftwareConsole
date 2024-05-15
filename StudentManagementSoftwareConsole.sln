@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagementSoftwareConsole", "StudentManagementSoftwareConsole\StudentManagementSoftwareConsole.csproj", "{E5F9F62B-AE07-430F-9EF1-6FAD96CD334D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{A2E6A04D-FE9D-419B-9AE8-F3B177CAC2A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataManager", "DataManager\DataManager.csproj", "{8513FFF4-12AA-49F5-A919-27EBC0DCB08C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5F9F62B-AE07-430F-9EF1-6FAD96CD334D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F9F62B-AE07-430F-9EF1-6FAD96CD334D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F9F62B-AE07-430F-9EF1-6FAD96CD334D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F9F62B-AE07-430F-9EF1-6FAD96CD334D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E6A04D-FE9D-419B-9AE8-F3B177CAC2A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E6A04D-FE9D-419B-9AE8-F3B177CAC2A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E6A04D-FE9D-419B-9AE8-F3B177CAC2A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E6A04D-FE9D-419B-9AE8-F3B177CAC2A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8513FFF4-12AA-49F5-A919-27EBC0DCB08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8513FFF4-12AA-49F5-A919-27EBC0DCB08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8513FFF4-12AA-49F5-A919-27EBC0DCB08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8513FFF4-12AA-49F5-A919-27EBC0DCB08C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "llnaE/nckQbV0Nx2JO7+k6QlUdEo3s8d56wWVXAY9g42wQTFEKryg6ecf/1SWvjsU76lRg8bnb/T3hOnAuDfJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\macanovic.SOFTWARE\\RiderProjects\\StudentManagementSoftwareConsole\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\macanovic.SOFTWARE\\.nuget\\packages\\csvhelper\\32.0.2\\csvhelper.32.0.2.nupkg.sha512",
+    "C:\\Users\\macanovic.SOFTWARE\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\macanovic.SOFTWARE\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\macanovic.SOFTWARE\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\8.0.0\\microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\macanovic.SOFTWARE\\.nuget\\packages\\microsoft.extensions.configuration.xml\\8.0.0\\microsoft.extensions.configuration.xml.8.0.0.nupkg.sha512",
+    "C:\\Users\\macanovic.SOFTWARE\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\macanovic.SOFTWARE\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\8.0.0\\microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "C:\\Users\\macanovic.SOFTWARE\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0\\microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "C:\\Users\\macanovic.SOFTWARE\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\macanovic.SOFTWARE\\.nuget\\packages\\system.formats.asn1\\8.0.0\\system.formats.asn1.8.0.0.nupkg.sha512",
+    "C:\\Users\\macanovic.SOFTWARE\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.0\\system.security.cryptography.pkcs.8.0.0.nupkg.sha512",
+    "C:\\Users\\macanovic.SOFTWARE\\.nuget\\packages\\system.security.cryptography.xml\\8.0.0\\system.security.cryptography.xml.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
